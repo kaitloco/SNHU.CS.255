@@ -1,2 +1,7 @@
 # SNHU.CS.255
 UML Diagrams
+This project focused on designing a system for a company called DriverPass. Their goal is to help clients learn how to drive and pass their DMV test. The goal for the assignment was to create a system where students can study, take practice tests, and schedule driving lessons all in one place. The goal was to provide administrative access to help daily business functions as well as to help students with systems or personal scheduling conflicts. The project included a business requirements document and a system design document to show how the system would work and meet the client’s needs.
+
+One strong part of this project was clearly connecting what the client wanted to actual system features. Scheduling, tracking progress, and preventing double bookings were all included and aligned with the requirements. One area that could be improved is the UML diagrams. They could be cleaner, more organized, and easier to understand visually.
+
+User needs were interpreted by focusing on what would help students succeed, like simple scheduling and clear progress tracking. This is important because if a system is confusing or doesn’t solve the problem, users will not use it. The approach to designing software started with gathering requirements and then breaking the system down into diagrams to show how everything connects. In the future, improvements could include getting feedback earlier and refining the design throughout the process.
